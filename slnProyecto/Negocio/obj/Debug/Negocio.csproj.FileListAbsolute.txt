@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\Proyecto\slnProyecto\Negocio\bin\Debug\Negocio.dll
+C:\Users\user\Desktop\Proyecto\slnProyecto\Negocio\bin\Debug\Negocio.pdb
+C:\Users\user\Desktop\Proyecto\slnProyecto\Negocio\bin\Debug\Datos.dll
+C:\Users\user\Desktop\Proyecto\slnProyecto\Negocio\bin\Debug\Entidad.dll
+C:\Users\user\Desktop\Proyecto\slnProyecto\Negocio\bin\Debug\Datos.pdb
+C:\Users\user\Desktop\Proyecto\slnProyecto\Negocio\bin\Debug\Entidad.pdb
+C:\Users\user\Desktop\Proyecto\slnProyecto\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Proyecto\slnProyecto\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Proyecto\slnProyecto\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\user\Desktop\Proyecto\slnProyecto\Negocio\obj\Debug\Negocio.dll
+C:\Users\user\Desktop\Proyecto\slnProyecto\Negocio\obj\Debug\Negocio.pdb
